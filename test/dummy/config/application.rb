@@ -1,6 +1,10 @@
 require_relative 'boot'
 
-require 'rails/all'
+require 'action_controller/railtie'
+require 'action_mailer/railtie'
+require 'active_model/railtie'
+require 'sprockets/railtie'
+require 'rails/test_unit/railtie'
 
 Bundler.require(*Rails.groups)
 require "cache_with_locale"
