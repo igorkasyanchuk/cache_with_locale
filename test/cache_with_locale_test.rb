@@ -8,6 +8,6 @@ class CacheWithLocale::Test < ActiveSupport::TestCase
   end
 
   test "helper" do
-    assert_equal send(:compose_key, 'x'), ['x', 'uk']
+    assert_equal send(:cache_with_locale_compose_key, 'x'), ['x', 'uk']
   end
 end
