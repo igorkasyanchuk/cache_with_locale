@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.org/igorkasyanchuk/cache_with_locale.svg?branch=master)](https://travis-ci.org/igorkasyanchuk/cache_with_locale)
+[![RailsJazz](https://github.com/igorkasyanchuk/rails_time_travel/blob/main/docs/my_other.svg?raw=true)](https://www.railsjazz.com)
 
 # Rails cache with locale
 Automatically adding current application locale (I18n.locale) as a part of caching key in Rails views.
@@ -47,5 +48,4 @@ Contribution directions go here.
 ## License
 The gem is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
 
-[<img src="https://github.com/igorkasyanchuk/rails_time_travel/blob/main/docs/more_gems.png?raw=true"
-/>](https://www.railsjazz.com/)
+
