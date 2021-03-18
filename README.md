@@ -43,7 +43,20 @@ $ bundle
 ```
 
 ## Contributing
-Contribution directions go here.
+
+Contributors
+
+- https://github.com/pfeiffer
+
+## Change Log
+
+0.0.2
+
+- https://github.com/igorkasyanchuk/cache_with_locale/pull/2
+
+0.0.1
+
+- initial version, ready for production
 
 ## License
 The gem is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
