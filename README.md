@@ -1,5 +1,6 @@
 [![Build Status](https://travis-ci.org/igorkasyanchuk/cache_with_locale.svg?branch=master)](https://travis-ci.org/igorkasyanchuk/cache_with_locale)
 [![RailsJazz](https://github.com/igorkasyanchuk/rails_time_travel/blob/main/docs/my_other.svg?raw=true)](https://www.railsjazz.com)
+[![https://www.patreon.com/igorkasyanchuk](https://github.com/igorkasyanchuk/rails_time_travel/blob/main/docs/patron.svg?raw=true)](https://www.patreon.com/igorkasyanchuk)
 
 # Rails cache with locale
 Automatically adding current application locale (I18n.locale) as a part of caching key in Rails views.
