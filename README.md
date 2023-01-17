@@ -28,6 +28,12 @@ This gem is a simple solution which allows you to DRY your code. So now you can 
 
 And let gem handle all work. You don't need to specify locale as a cache sufix/prefix.
 
+This gem also works for collection caching like this:
+
+```
+  = render partial: :post, collection: @posts, cached: true
+```
+
 ## Usage
 Just add this gem to your Gemfile.
 
