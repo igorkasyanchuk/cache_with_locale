@@ -51,11 +51,17 @@ $ bundle
 
 ## Contributing
 
-Contributors
+Contributors:
+
 
 - https://github.com/pfeiffer
+- https://github.com/dlackty
 
 ## Change Log
+
+0.0.3
+
+- https://github.com/igorkasyanchuk/cache_with_locale/pull/3
 
 0.0.2
 
@@ -70,4 +76,3 @@ The gem is available as open source under the terms of the [MIT License](https:/
 
 [<img src="https://github.com/igorkasyanchuk/rails_time_travel/blob/main/docs/more_gems.png?raw=true"
 />](https://www.railsjazz.com/?utm_source=github&utm_medium=bottom&utm_campaign=cache_with_locale)
-
